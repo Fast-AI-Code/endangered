@@ -1,0 +1,4 @@
+*.pth
+*checkpoint*
+*.v2
+*.jpg
